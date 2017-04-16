@@ -1,0 +1,28 @@
+<h1 class="text-center">{{message}}</h1>
+<div ng-repeat="productCart in cartsProducts">
+<table class="table table-condensed ">
+  <thead>
+    <tr>
+      <th class="col-md-9 col-sm-9 col-xs-9">Produto</th>
+      <th class="col-md-2 col-sm-2 col-xs-2">Preço</th>
+      <th class="col-md-1 col-sm-1 col-xs-1">Remover</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><div class="col-md-2 hidden-xs"><img class="responsive productCart-img" src="{{productCart.img}}" alt="{{productCart.title}}"></div>
+      <h4 class="productCart-title">{{productCart.title}}</h4></th>
+      <td>{{productCart.price | currency}}</td>
+      <td><button class="btn btn-danger btn-md" ng-click="removeFromCart(productCart)"><i class="fa fa-trash-o"></i></button>	</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="row">
+		<div class="col-md-12 panel-total">
+			<h3> SUBTOTAL</h3>
+			<hr>
+			<h3 class="amount-cart">{{amount | currency}} <span>ou em {{installmentTime}}x {{installmentPlan(amount) | currency}}</span></h1>
+		</div>
+</div>

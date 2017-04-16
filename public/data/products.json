@@ -1,0 +1,141 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Lorem Ipsum",
+      "price": 399.9,
+      "installments": 10,
+      "img": "../img/products/background_1.jpg"
+    },
+
+    {
+      "id": 1,
+      "title": "Lorem Ipsum",
+      "price": 225.9,
+      "installments": 9,
+       "img": "../img/products/background_2.jpg"
+
+    },
+
+    {
+      "id": 2,
+      "title": "Lorem Ipsum",
+      "price": 159.9,
+      "installments": 6,
+       "img": "../img/products/background_3.jpg"
+    },
+
+    {
+      "id": 3,
+      "title": "Lorem Ipsum",
+      "price": 199.9,
+      "installments": 7,
+       "img": "../img/products/background_4.jpg"
+
+    },
+
+    {
+      "id": 4,
+      "title": "Lorem Ipsum",
+      "price": 349.9,
+      "installments": 12,
+       "img": "../img/products/background_1.jpg"
+    },
+
+    {
+      "id": 5,
+      "title": "Lorem Ipsum",
+      "price": 229.9,
+      "installments": 9,
+       "img": "../img/products/background_2.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "Lorem Ipsum",
+      "price": 45.9,
+      "installments": 1,
+       "img": "../img/products/background_3.jpg"
+    },
+
+    {
+      "id": 7,
+      "title": "Lorem Ipsum",
+      "price": 109.9,
+      "installments": 4,
+       "img": "../img/products/background_4.jpg"
+    },
+
+    {
+      "id": 8,
+      "title": "Lorem Ipsum",
+      "price": 119.9,
+      "installments": 4,
+       "img": "../img/products/background_1.jpg"
+    },
+
+    {
+      "id": 9,
+      "title": "Lorem Ipsum",
+      "price": 134.9,
+      "installments": 5,
+       "img": "../img/products/background_2.jpg"
+    },
+
+    {
+      "id": 10,
+      "title": "Lorem Ipsum",
+      "price": 520.9,
+      "installments": 10,
+       "img": "../img/products/background_3.jpg"
+    },
+
+    {
+      "id": 11,
+      "title": "Lorem Ipsum",
+      "price": 680.9,
+      "installments": 10,
+       "img": "../img/products/background_4.jpg"
+    },
+
+    {
+      "id": 12,
+      "title": "Lorem Ipsum",
+      "price": 299.9,
+      "installments": 10,
+       "img": "../img/products/background_1.jpg"
+    },
+
+    {
+      "id": 13,
+      "title": "Lorem Ipsum",
+      "price": 129.9,
+      "installments": 5,
+       "img": "../img/products/background_2.jpg"
+    },
+
+    {
+      "id": 14,
+      "title": "Lorem Ipsum",
+      "price": 90.0,
+      "installments": 3,
+       "img": "../img/products/background_3.jpg"
+    },
+
+    {
+      "id": 15,
+      "title": "Lorem Ipsum",
+      "price": 62.9,
+      "installments": 2,
+       "img": "../img/products/background_4.jpg"
+    },
+
+    {
+      "id": 16,
+      "title": "Lorem Ipsum",
+      "price": 199.9,
+      "installments": 7,
+       "img": "../img/products/background_1.jpg"
+    }
+  ]
+}

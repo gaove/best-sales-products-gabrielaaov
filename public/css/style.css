@@ -1,0 +1,155 @@
+/*HEADER*/
+.navbar {
+    border-radius: 1px;
+    min-height: 100px;
+    padding:30px;
+    text-align: center;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: #fff;
+    background-color: #6e629e;
+    margin: 5px;
+    text-transform: uppercase;
+    border: 3px solid #938fa5;
+    min-width: 110px;
+}
+
+.site-title a{
+    font-size: 25px;
+    text-decoration: none;
+    color:#938fa5;
+}
+
+/*MAIN GENERAL*/
+.wrap{
+	min-height:764px;
+}
+
+.btn-green{
+    color: #fff;
+    background-color: #33b77a;
+    outline: none;
+    border: 3px solid #8bceaf;
+
+}
+
+.btn-green.active, .btn-green.focus, .btn-green:active, .btn-green:focus, .btn-green:hover, .open>
+.dropdown-toggle.btn-green {
+    color: #fff;
+    background-color: #258c5c;
+    outline: none!important;
+    border:none;
+    border: 3px solid #8bceaf;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border-radius: 1px;
+    outline: none;
+}
+
+/*PRODUCT*/
+.products{
+	min-height: 400px;
+	padding:10px 5px;
+	text-align: center;
+}
+
+.product-title{
+	font-size: 13px;
+	height: 20px;
+    overflow: hidden;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+
+.product-price{
+	font-weight: 600;
+	font-size:20px;
+    color:#238e5d;
+}
+
+.product img{
+	width:180px;
+	height: 231px;
+}
+
+
+.product img{
+	width:180px;
+	height: 231px;
+}
+
+/*CART*/
+.panel-cart{
+    min-height: 500px;
+}
+.panel-total{
+    text-align: center;
+}
+
+.productCart-img{
+    width: 70px;
+    height: auto;
+    display:block;
+}
+
+.productCart-title{
+   float:left;
+   display:block;
+}
+
+.amount-cart{
+    color:#4fbc8c;
+}
+
+.amount-cart span{
+    font-size:16px;
+    color:#333;
+    display:block;
+    font-weight: 300;
+    line-height: 1;
+}
+
+hr{
+    height: 2px;
+    background-color: #6e629e;
+    width:300px;
+    text-align: center;
+}
+
+/*FOOTER*/
+footer{
+	min-height: 70px;
+	background-color: #222;
+	color:#989898;
+	text-align:center;
+	padding:20px;
+}
+
+
+
+
+
+
+
+
+
+
