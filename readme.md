@@ -8,12 +8,12 @@ A catalog page showing products from a json file.
 ```
 # Dependencies:
 - Node v4 and NPM
-- npm install (to install the dependencies from package.json).
 - "consign": "^0.1.2",
 - "express": "^4.13.3"
 
 # Run development tasks:
 ```
+- npm install (to install the dependencies from package.json).
 - npm start
 - Access: http://localhost:3000/
 ```
